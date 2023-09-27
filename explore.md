@@ -20,3 +20,10 @@ layout: home
 \newcommand{\avector}[2]{(#1_1,#1_2,\ldots,#1_{#2})}
 \newcommand{\aDEFvector}[2][a]{(#1_1,#1_2,\ldots,#1_{#2})}
 ```
+
+**LaTeX Macro Test 3
+$$
+\def\bold#1
+
+\bold{this\ is\ now\ bold}
+$$
