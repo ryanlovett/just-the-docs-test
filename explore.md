@@ -21,7 +21,7 @@ layout: home
 \newcommand{\aDEFvector}[2][a]{(#1_1,#1_2,\ldots,#1_{#2})}
 ```
 
-**LaTeX Macro Test 3
+**LaTeX Macro Test 3**
 $$
 \def\bold#1
 
