@@ -22,8 +22,10 @@ layout: home
 ```
 
 **LaTeX Macro Test 3**
+```math
 $$
 \def\bold#1
 
 \bold{this\ is\ now\ bold}
 $$
+```
